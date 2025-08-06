@@ -1,0 +1,48 @@
+/* pra centralizar o card */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(to right, #28345c, black);
+  padding: 20px;
+  border-radius: 10px;
+  width: 378px;
+  height: 155px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.logos img {
+  width: 150px;
+  height: auto;
+}
+
+/* parte do botão, fundo e etc. */
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
