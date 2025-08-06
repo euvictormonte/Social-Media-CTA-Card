@@ -19,4 +19,4 @@ This is a simple project built with **HTML** and **CSS** that displays a **style
 2. Open the `index.html` file in your browser  
 3. Click the button to test the redirection
 
-   Made by Victor Monte 😎
+Made by Victor Monte 👋😎
