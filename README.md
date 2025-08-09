@@ -23,5 +23,7 @@ This is a simple project built with **HTML** and **CSS** that displays a **style
 2. Open the `index.html` file in your browser  
 3. Click the button to test the redirection
 
+Test here: https://euvictormonte.github.io/Social-Media-CTA-Card/
+
 Made by Victor Monte 👋😎
 
